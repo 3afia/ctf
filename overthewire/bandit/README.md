@@ -1,9 +1,10 @@
-<<<<<<< HEAD
 # [Bandit](https://overthewire.org/wargames/bandit)
 ### [OverTheWire](https://overthewire.org/wargames/)
 ##### my ctf progress
 
-| Username | password | one-liner to get the password |
+
+
+| Username | password | oneline to get the password |
 | ----------- | ----------- |----------- |
 | bandit0 | bandit0 | from the website |
 | bandit1 | boJ9jbbUNNfktd78OOpsqOltutMc3MY1 | `ls &&  cat readme` |
@@ -41,5 +42,3 @@
 | bandit33 | c9c3199ddf4121b10cf581a98d51caee | `$0 && cat /etc/bandit_pass/bandit33` |
 
 ### The end :)
-
-
