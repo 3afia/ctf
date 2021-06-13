@@ -2,7 +2,7 @@
 ### [OverTheWire](https://overthewire.org/wargames)
 ##### my ctf progress
 
-| Username | password | onliner to get the password |
+| Username | password | one-liner to get the password |
 | ----------- | ----------- |----------- |
 | bandit0 | bandit0 | from the website |
 | bandit1 | boJ9jbbUNNfktd78OOpsqOltutMc3MY1 | `ls; cat readme` |
