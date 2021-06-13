@@ -3,7 +3,7 @@
 ##### my ctf progress
 
 | Username | password | oneline to get the password |
-| ----------- | ----------- |
+| ----------- | ----------- |----------- |
 | bandit0 | bandit0 | from the website |
 | bandit1 | boJ9jbbUNNfktd78OOpsqOltutMc3MY1 | `ls; cat readme` |
 | bandit2 | CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9 | `cat ./\-` |
