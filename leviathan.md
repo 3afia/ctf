@@ -10,5 +10,8 @@
 |   leviathan4| vuH0coox6m  | `gdb -q level3; disas main -> disas do_stuff; b *dostuff+strcomp; check for lea x/s -> password; find / -iname $(whoami) -exec cat {} \;`  |
 |   leviathan5| Tith4cokei  |`cd .trash; ./bin; then covert from binary to ascii`    |
 |   leviathan6|  UgaoFee4li |  ` ln -s /etc/leviathan_pass/leviathan6 /tmp/file.log; ./leviathan5` |
-|   leviathan7|  ahy7MaeBo9 |   `sed ltrace;gbd; eventually bruteforce; for i in (seq 0000 9999); do echo $i; ./leviathan6; done; find / -iname $(whoami) -exec cat {} \;`|
-The end :)
+|   leviathan7|  ahy7MaeBo9 |   `used ltrace;gdb; eventually bruteforce; for i in (seq 0000 9999); do echo $i; ./leviathan6; done; find / -iname $(whoami) -exec cat {} \;`|
+
+
+
+##The end :)
